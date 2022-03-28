@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Files 3\Source.c(17,39): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+C:\Users\maestro\source\repos\Files 3\Source.c(17,48): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\maestro\source\repos\Files 3\Source.c(8,7): warning C4101: 'str2': unreferenced local variable
+  Files 3.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Files 3.exe

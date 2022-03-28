@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Quiz\Source.c(5,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Quiz.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 2\Debug\Quiz.exe

@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void main() {
+	printf("\n\n");
+	printf("\"\tLet us go, Oedipus, let me walk you 'Twixt towers reaching to heaven, Where women are charged to be patient and perfect. You will not stay upon your leash.\n");
+	printf("\tWe walk through Mandalay, not Paris, Where the women have no face. 'Tis but a siren of emergency That sings to me. What worth I am to you, Oedipus, What worth am I to them?\n");
+	printf("\tWhen the footman holds my coat, and snickers, What worth am I to them? Every man is a piece of the continent! She may love me for the dangers I have passed, And I her that she did pity them, But she cannot, now and forever. And while the sun excludes me, I am not them and they not I, And the waters do not glisten, She is their chattel and not mine.\n");
+	printf("\tI gaze upon her ornate face and sing, Her eyes are pools of wonder that see me, and swing away. I am older, I have sense, Like Oedipus my King, But when I see her ornate face I very nearly sing. After many lonely nights In shirtsleeves and not silk, I went to her, and said: \n");
+	printf("\tHere, take this silver, for my milk. And she may have loved me once But for my thought and sense, I'm but a bumblebee today - I left at some expense.\t\"\n");
+	printf("\n\n");
+	return 0;
+}

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\9.8\Source.c(16,17): warning C4090: 'function': different 'const' qualifiers
+  9.8.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\9.8.exe

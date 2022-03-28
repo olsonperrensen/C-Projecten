@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Week 4 Assignment Arrays\Source.c(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\Week 4 Assignment Arrays\Source.c(42,23): warning C4018: '<': signed/unsigned mismatch
+  Week 4 Assignment Arrays.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Week 4 Assignment Arrays.exe

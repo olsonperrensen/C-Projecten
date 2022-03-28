@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\BIT\Source.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\maestro\source\repos\BIT\Source.c(7,9): message : consider using '%zd' in the format string
+C:\Users\maestro\source\repos\BIT\Source.c(23,9): warning C4133: 'function': incompatible types - from 'char [99]' to 'int *'
+C:\Users\maestro\source\repos\BIT\Source.c(25,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\maestro\source\repos\BIT\Source.c(25,9): message : consider using '%zd' in the format string
+  BIT.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\x64\Debug\BIT (practice).exe

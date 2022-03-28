@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\7.5\Source.c(22,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\7.5\Source.c(40,10): warning C4098: 'PrintMatrix': 'void' function returning a value
+  7.5.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\7.5.exe

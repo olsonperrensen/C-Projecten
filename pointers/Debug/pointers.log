@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\pointers\Source.c(13,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'long *'
+C:\Users\maestro\source\repos\pointers\Source.c(14,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'float *'
+C:\Users\maestro\source\repos\pointers\Source.c(8,1): warning C4047: 'initializing': 'long *' differs in levels of indirection from 'float (*)[5]'
+  pointers.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 5\Debug\pointers.exe

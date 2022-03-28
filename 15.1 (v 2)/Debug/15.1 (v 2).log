@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (15.1 (v 2).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+C:\Users\maestro\source\repos\15.1 (v 2)\Source.c(15,1): warning C4047: 'initializing': 'Person *' differs in levels of indirection from 'Person (*)[5]'
+  15.1 (v 2).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\15.2 with pointers.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\15.5\Source.c(26,21): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\maestro\source\repos\15.5\Source.c(26,20): warning C4024: 'searchTown': different types for formal and actual parameter 3
+C:\Users\maestro\source\repos\15.5\Source.c(41,44): warning C4028: formal parameter 3 different from declaration
+  15.5.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\15.5.exe

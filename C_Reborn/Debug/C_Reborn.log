@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\C_Reborn\Source.c(9,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\C_Reborn\Source.c(11): warning C4716: 'miles_to_km': must return a value
+  C_Reborn.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\C_Reborn.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Option 2 (Natural or Social Science Focus)\Source.c(49,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\Option 2 (Natural or Social Science Focus)\Source.c(62,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Option 2 (Natural or Social Science Focus).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Option 2 (Natural or Social Science Focus).exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Array 2\Source.c(9,8): error C2143: syntax error: missing ']' before '='
+C:\Users\maestro\source\repos\Array 2\Source.c(9,12): error C2143: syntax error: missing ';' before ']'
+C:\Users\maestro\source\repos\Array 2\Source.c(10,7): error C2059: syntax error: '='
+C:\Users\maestro\source\repos\Array 2\Source.c(9,1): error C2075: 'a': initialization requires a brace-enclosed initializer list
+C:\Users\maestro\source\repos\Array 2\Source.c(16,10): warning C4098: 'f': 'void' function returning a value

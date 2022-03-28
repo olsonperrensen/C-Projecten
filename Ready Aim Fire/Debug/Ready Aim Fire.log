@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(49,69): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(51,70): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(52,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(53,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(80,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Ready Aim Fire\Source.c(84,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Ready Aim Fire.vcxproj -> C:\Users\maestro\source\repos\C_Exam_Prep\Debug\Ready Aim Fire.exe

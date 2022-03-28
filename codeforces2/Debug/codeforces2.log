@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\codeforces2\Source.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
+  codeforces2.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\codeforces2.exe

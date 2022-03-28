@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\5.4.4\Source.c(13,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(13,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\maestro\source\repos\5.4.4\Source.c(17,21): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(17,21): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\maestro\source\repos\5.4.4\Source.c(22,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(22,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\maestro\source\repos\5.4.4\Source.c(26,21): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(26,21): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\maestro\source\repos\5.4.4\Source.c(31,21): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(31,21): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\maestro\source\repos\5.4.4\Source.c(35,25): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\maestro\source\repos\5.4.4\Source.c(35,25): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  5.4.4.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\5.2.4.exe

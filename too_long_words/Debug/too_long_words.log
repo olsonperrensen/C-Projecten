@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\too_long_words\Source.c(28,28): warning C4047: '>=': 'char [2500]' differs in levels of indirection from 'int'
+  too_long_words.vcxproj -> C:\Users\maestro\source\repos\Codeforces\Debug\too_long_words.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\while-cnt-char-explained\Source.c(9,15): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+  while-cnt-char-explained.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 3\Debug\while-cnt-char-explained.exe

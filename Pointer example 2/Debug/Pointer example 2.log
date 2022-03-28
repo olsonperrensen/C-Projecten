@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Pointer example 2\Source.c(26,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'double *'
+C:\Users\maestro\source\repos\Pointer example 2\Source.c(27,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'char *'
+C:\Users\maestro\source\repos\Pointer example 2\Source.c(27,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 2 has type 'char *'
+  Pointer example 2.vcxproj -> C:\Users\maestro\source\repos\All Projects From Week 4\Debug\Pointer example 2.exe

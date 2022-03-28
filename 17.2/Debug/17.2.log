@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\17.2\Source.c(10,12): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\17.2\Source.c(10,45): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\maestro\source\repos\17.2\Source.c(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\17.2\Source.c(25,23): warning C4018: '<': signed/unsigned mismatch
+  17.2.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\17.2.exe

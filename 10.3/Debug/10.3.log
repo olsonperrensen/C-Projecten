@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\10.3\Source.c(24,7): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\10.3\Source.c(34,14): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\10.3\Source.c(36,11): warning C4013: 'strcpy' undefined; assuming extern returning int
+  10.3.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\10.3.exe

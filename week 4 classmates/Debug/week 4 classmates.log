@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\week 4 classmates\Source.c(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\week 4 classmates\Source.c(42,23): warning C4018: '<': signed/unsigned mismatch
+  week 4 classmates.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\week 4 classmates.exe

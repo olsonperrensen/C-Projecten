@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\16.3 (v2)\Source.c(31,36): warning C4133: 'function': incompatible types - from 'Person *' to 'int *'
+C:\Users\maestro\source\repos\16.3 (v2)\Source.c(42,49): warning C4028: formal parameter 3 different from declaration
+  16.3 (v2).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\16.3 (v2).exe
