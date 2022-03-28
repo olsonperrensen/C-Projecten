@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Lec 2 (fn)\Source.c(16,12): warning C4013: 'time' undefined; assuming extern returning int
+  Lec 2 (fn).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Lec 2 (fn).exe

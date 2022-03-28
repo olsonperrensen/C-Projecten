@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\7.8 (the right way)\Source.c(48,21): warning C4098: 'store': 'void' function returning a value
+C:\Users\maestro\source\repos\7.8 (the right way)\Source.c(58,21): warning C4098: 'print': 'void' function returning a value
+  7.8 (the right way).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\7.8 (the right way).exe

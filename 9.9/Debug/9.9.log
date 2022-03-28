@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\9.9\Source.c(21,33): warning C4090: 'function': different 'const' qualifiers
+C:\Users\maestro\source\repos\9.9\Source.c(32,6): warning C4013: 'gets' undefined; assuming extern returning int
+  9.9.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\9.9.exe

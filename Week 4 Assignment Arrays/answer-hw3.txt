@@ -1,0 +1,4 @@
+9 11 12 15 
+
+Their max is 47
+The average of them is 11.75

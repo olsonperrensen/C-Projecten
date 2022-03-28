@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Arrays\Source.c(36,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\maestro\source\repos\Arrays\Source.c(38,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Arrays.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Arrays.exe

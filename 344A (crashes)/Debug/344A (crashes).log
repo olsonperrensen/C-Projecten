@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\344A (crashes)\Source.c(11,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\344A (crashes)\Source.c(15,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\344A (crashes)\Source.c(9,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[10001][2]'
+  344A (crashes).vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\344A (crashes).exe

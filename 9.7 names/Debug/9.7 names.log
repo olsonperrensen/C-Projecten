@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\9.7 names\Source.c(19,6): warning C4013: 'gets' undefined; assuming extern returning int
+  9.7 names.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\9.7 names.exe

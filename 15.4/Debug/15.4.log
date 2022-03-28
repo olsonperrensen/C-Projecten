@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\15.4\Source.c(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\15.4\Source.c(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\15.4\Source.c(13,1): warning C4047: 'initializing': 'Student *' differs in levels of indirection from 'Student (*)[50]'
+C:\Users\maestro\source\repos\15.4\Source.c(31,6): warning C4013: 'gets' undefined; assuming extern returning int
+  15.4.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\15.4.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\All Projects from Week 1\Source.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+  All Projects from Week 1.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 1\Debug\Fahrenheit to Celsius Converter.exe

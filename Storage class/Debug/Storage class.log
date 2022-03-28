@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Storage class\Source.c(12,4): warning C4013: 'f' undefined; assuming extern returning int
+  Storage class.vcxproj -> C:\Users\maestro\source\repos\All Projects From Week 4\Debug\Storage class.exe

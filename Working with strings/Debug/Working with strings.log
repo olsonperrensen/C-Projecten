@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Working with strings\Source.c(10,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\Working with strings\Source.c(12,13): warning C4020: 'puts': too many actual parameters
+  Working with strings.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Working with strings.exe

@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\BIT_practice2\Source.c(6,18): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\BIT_practice2\Source.c(6,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  BIT_practice2.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\BIT_practice2.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Sin and Cos\Source.c(14,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Sin and Cos\Source.c(17,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maestro\source\repos\Sin and Cos\Source.c(20,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sin and Cos.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 3\Debug\Sin and Cos.exe

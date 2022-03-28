@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\7.4\Source.c(15,24): warning C4020: 'PrintDays': too many actual parameters
+C:\Users\maestro\source\repos\7.4\Source.c(40,1): warning C4029: declared formal parameter list different from definition
+  7.4.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\7.4.exe

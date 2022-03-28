@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\call by value\Source.c(18,27): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\maestro\source\repos\call by value\Source.c(18,25): warning C4024: 'swap_call_by_reference': different types for formal and actual parameter 1
+C:\Users\maestro\source\repos\call by value\Source.c(18,31): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\maestro\source\repos\call by value\Source.c(18,29): warning C4024: 'swap_call_by_reference': different types for formal and actual parameter 2
+C:\Users\maestro\source\repos\call by value\Source.c(23,34): warning C4028: formal parameter 1 different from declaration
+C:\Users\maestro\source\repos\call by value\Source.c(23,42): warning C4028: formal parameter 2 different from declaration
+C:\Users\maestro\source\repos\call by value\Source.c(10): warning C4716: 'swap': must return a value
+  call by value.vcxproj -> C:\Users\maestro\source\repos\All Projects from Week 5\Debug\call by value.exe

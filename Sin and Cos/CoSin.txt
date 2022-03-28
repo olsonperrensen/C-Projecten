@@ -1,0 +1,17 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+	printf("Table of values for sine and cosine between (0, 1)");
+	theFn();
+	return 0;
+}
+
+int theFn() {
+	for (double i = 0.0; i < 1; i = i + 0.1) // altered version of the for loop for convenience (+0.1)
+	{
+		printf("\n----\n");
+		printf("%lf has a Sine of %lf and a Cosine of %lf", i, sin(i), cos(i)); // sine and cosine functions being called here 
+	}
+}

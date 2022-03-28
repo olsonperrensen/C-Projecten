@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Exam_Example\Source.c(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\Exam_Example\Source.c(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\Exam_Example\Source.c(97,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\maestro\source\repos\Exam_Example\Source.c(101,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\maestro\source\repos\Exam_Example\Source.c(117,24): warning C4018: '<': signed/unsigned mismatch
+  Exam_Example.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Exam_Example.exe

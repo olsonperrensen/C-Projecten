@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\PI\Source.c(10,12): warning C4013: 'time' undefined; assuming extern returning int
+  PI.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\PI.exe

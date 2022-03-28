@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\struct_Sofie\Source.c(17,9): warning C4101: 'myPerson': unreferenced local variable
+  struct_Sofie.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\struct_Sofie.exe

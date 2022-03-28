@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\typecast pointers BAD\Source.c(6,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  typecast pointers BAD.vcxproj -> C:\Users\maestro\source\repos\Duke\Debug\typecast pointers BAD.exe

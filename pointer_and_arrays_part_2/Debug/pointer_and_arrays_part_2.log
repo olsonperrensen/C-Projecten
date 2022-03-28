@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\pointer_and_arrays_part_2\Source.c(33,14): warning C4098: 'r': 'void' function returning a value
+C:\Users\maestro\source\repos\pointer_and_arrays_part_2\Source.c(51,28): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+C:\Users\maestro\source\repos\pointer_and_arrays_part_2\Source.c(53,29): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+  pointer_and_arrays_part_2.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\8.6.exe

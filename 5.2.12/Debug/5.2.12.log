@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\5.2.12\Source.c(17,11): warning C4129: 'Y': unrecognized character escape sequence
+C:\Users\maestro\source\repos\5.2.12\Source.c(45,11): warning C4129: 'Y': unrecognized character escape sequence
+  5.2.12.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\5.2.12.exe

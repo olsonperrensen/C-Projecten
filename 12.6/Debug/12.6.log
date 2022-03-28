@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\12.6\Source.c(20,23): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\maestro\source\repos\12.6\Source.c(28,20): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  12.6.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\12.6.exe

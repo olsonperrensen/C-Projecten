@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\15.6\Source.c(20,23): warning C4018: '<': signed/unsigned mismatch
+  15.6.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\15.6.exe

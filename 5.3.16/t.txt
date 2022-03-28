@@ -1,0 +1,166 @@
+/*Tower builder by Me, v1*/
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <ctype.h> // Using the tolower() function so Y = y
+
+int main(void)
+{
+	char c = 219, userCharChoice; short int userNrChoice = 0, oldUserNrChoice = 0, counter = 0;
+	/*Beginning of the tower prompt which is later recalled on goto*/
+TOWER:printf("\n                                                  _\n  __                   ___                       ( )\n |\"\"|  ___    _   __  |\"\"\"|  __                   `\n |\"\"| |\"\"\"|  |\"| |\"\"| |\"\"\"| |\"\"|        _._ _\n |\"\"| |\"\"\"|  |\"| |\"\"| |\"\"\"| |\"\"|       (__((_(\n |\"\"| |\"\"\"|  |\"| |\"\"| |\"\"\"| |\"\"|      \'-:--:-.\n \"'''\"''\"'\"\"'\"\"\"''\"''''\"\"\"'\"\"'\"\"'~~~~~~'-----'~~~~");
+	printf("\nThis program builds a tower upside down! How wide should the tower be? (enter an odd number between 3 and 15)\n");
+	if (scanf("%hd%*c", &userNrChoice))
+	{
+		if (userNrChoice % 2 == 1 && userNrChoice <= 15 && userNrChoice >= 3) // only work with odd numbers within the specified range
+		{
+			oldUserNrChoice = userNrChoice; // I do this in order not to lose track of what the original choice was
+			printf("\n\t\t\t\t\t\t");
+			while (counter != userNrChoice)
+			{
+				for (int i = 0; i < userNrChoice; i++) // The tower floors printed will be equal to what the user entered as value 
+				{
+					printf("%c", c);
+				}
+				counter++;
+				printf("\n\t\t\t\t\t\t");
+			}
+			userNrChoice -= 2; // this will be used many times in the following for loops, so the tower shrinks and so its floors
+			counter = 0;
+			printf("\n\t\t\t\t\t\t ");
+			if (oldUserNrChoice == 3) {printf("%c", c); goto AGAIN;} // Last floor reached
+			if (userNrChoice == (oldUserNrChoice - 2) || userNrChoice != 0)
+				{
+					while (counter != userNrChoice)
+					{
+						
+						for (int i = 0; i < (userNrChoice); i++)
+						{
+							printf("%c", c);
+						}
+						counter++;
+						printf("\n\t\t\t\t\t\t ");
+					}
+					printf("\n  ");
+				}
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t  ");
+			if (oldUserNrChoice == 5) { printf("%c", c); goto AGAIN; }
+			if (userNrChoice == (oldUserNrChoice - 4) || userNrChoice != 0)
+				{
+					while (counter != userNrChoice)
+					{
+						for (int i = 0; i < (userNrChoice); i++)
+						{
+							printf("%c", c);
+						}
+						counter++;
+						printf("\n\t\t\t\t\t\t  ");
+					}
+				}
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t   ");
+			if (oldUserNrChoice == 7) { printf("%c", c); goto AGAIN; }
+			if (userNrChoice == (oldUserNrChoice - 6) || userNrChoice != 0)
+				{
+					while (counter != userNrChoice)
+					{
+						for (int i = 0; i < (userNrChoice); i++)
+						{
+							printf("%c", c);
+						}
+						counter++;
+						printf("\n\t\t\t\t\t\t   ");
+					}
+				}
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t    ");
+			if (oldUserNrChoice == 9) { printf("%c", c); goto AGAIN; }
+			if (userNrChoice == (oldUserNrChoice - 8) || userNrChoice != 0)
+					{
+						while (counter != userNrChoice)
+						{
+							for (int i = 0; i < (userNrChoice); i++)
+							{
+								printf("%c", c);
+							}
+							counter++;
+							printf("\n\t\t\t\t\t\t    ");
+						}
+					}	
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t     ");
+			if (oldUserNrChoice == 11) { printf("%c", c); goto AGAIN; }
+			if (userNrChoice == (oldUserNrChoice - 10) || userNrChoice != 0)
+					{
+						while (counter != userNrChoice)
+						{
+							for (int i = 0; i < (userNrChoice); i++)
+							{
+								printf("%c", c);
+							}
+							counter++;
+							printf("\n\t\t\t\t\t\t     ");
+						}
+					}				
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t      ");
+			if (oldUserNrChoice == 13) { printf("%c", c); goto AGAIN; }
+			if (userNrChoice == (oldUserNrChoice - 12) || userNrChoice != 0)
+					{
+						while (counter != userNrChoice)
+						{
+							for (int i = 0; i < (userNrChoice); i++)
+							{
+								printf("%c", c);
+							}
+							counter++;
+							printf("\n\t\t\t\t\t\t      ");
+						}
+					}
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t       ");
+			if (userNrChoice == (oldUserNrChoice - 14) || userNrChoice != 0)
+					{
+						while (counter != userNrChoice)
+						{
+							for (int i = 0; i < (userNrChoice); i++)
+							{
+								printf("%c", c);
+							}
+							counter++;
+							printf("\n\t\t\t\t\t\t      ");
+						}
+					}
+			userNrChoice -= 2;
+			counter = 0;
+			printf("\n\t\t\t\t\t\t       ");
+		AGAIN:printf("\nDo you want to build another tower? (y/n) ");
+
+			if(scanf("%c%*c", &userCharChoice))
+			{
+			switch (tolower(userCharChoice))
+			{
+			case 'y':
+				printf("\nyes\n");
+				goto TOWER;
+				break;
+			case 'n':
+				printf("\nno\n");
+				break;
+			default:
+				printf("\nI take that as yes!\n");
+				goto TOWER;
+				break;
+			}
+			}
+		}
+
+	}
+	return 0;
+}

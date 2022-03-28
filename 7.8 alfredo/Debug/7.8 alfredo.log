@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\7.8 alfredo\Source.c(37,6): warning C4101: 'input': unreferenced local variable
+  7.8 alfredo.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\7.8 alfredo.exe

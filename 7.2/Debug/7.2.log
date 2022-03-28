@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\7.2\Source.c(17,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  7.2.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\7.2.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Arduino-Coursera-3\Source.c(8): warning C4716: 'foo': must return a value
+  Arduino-Coursera-3.vcxproj -> C:\Users\maestro\source\repos\Arduino-Coursera-2\Debug\Arduino-Coursera-3.exe

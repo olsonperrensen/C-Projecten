@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\maestro\source\repos\Yet Another Anki\Source.c(21,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\maestro\source\repos\Yet Another Anki\Source.c(22,16): warning C4013: 'strcmp' undefined; assuming extern returning int
+  Yet Another Anki.vcxproj -> C:\Users\maestro\source\repos\C_Reborn\Debug\Yet Another Anki.exe
